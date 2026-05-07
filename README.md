@@ -138,13 +138,13 @@ const koppulaVarun = {
 <br/>
 
 <!-- STATS CARDS -->
-<p align="center">
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Varun2526&theme=tokyonight&border_radius=10&background=0D1117&border=b388ff" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varun2526&layout=compact&theme=tokyonight&hide_border=false&border_color=b388ff&bg_color=0d1117" />
-</p>
+<div align="center">
 
+<img width="49%" src="https://streak-stats.demolab.com?user=Varun2526&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&border=b388ff" />
 
+<img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varun2526&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
+</div>
 <br/>
 
 <div align="center">

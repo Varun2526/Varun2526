@@ -163,14 +163,14 @@ const koppulaVarun = {
 <div align="center">
 <i>Enterprise Blockchain Supply Chain Management System</i><br/><br/>
 
-<img src="https://img.shields.io/badge/Blockchain-20232A?style=flat&logo=hyperledger&logoColor=white" />
-<img src="https://img.shields.io/badge/Supply_Chain-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat&logo=hyperledger&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_GenAI-4285F4?style=flat&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Blockchain-20232A?style=for-the-badge&logo=hyperledger&logoColor=white" />
+<img src="https://img.shields.io/badge/Supply_Chain-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
 </div>
 
@@ -191,9 +191,9 @@ const koppulaVarun = {
 <div align="center">
 <i>AI Compliance & Consent Registry</i><br/><br/>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </div>
 
@@ -215,9 +215,9 @@ const koppulaVarun = {
 <div align="center">
 <i>Autonomous Care Assessment</i><br/><br/>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 </div>
 
@@ -237,9 +237,9 @@ const koppulaVarun = {
 <div align="center">
 <i>Generative AI Chrome Extension</i><br/><br/>
 
-<img src="https://img.shields.io/badge/Chrome-FF6F00?style=flat&logo=googlechrome&whiteColor=white" />
-<img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Chrome-FF6F00?style=for-the-badge&logo=googlechrome&whiteColor=white" />
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </div>
 
@@ -286,11 +286,11 @@ const opportunities = {
 ### 💼 Contact Information
 ```javascript
 const contact = {
-  email: "varunkoppula2007@gmail.com",  📧
-  linkedin: "linkedin.com/in/varun-koppula-b01916315",  💼
-  github: "github.com/Varun2526",  📱
-  location: "Hyderabad, India",  📍
-  responseTime: "Within 24 hours"  🚀
+  email: "varunkoppula2007@gmail.com",  // 📧
+  linkedin: "https://www.linkedin.com/in/varun-koppula-b01916315",  // 💼
+  github: "https://github.com/Varun2526",  // 📱
+  location: "Hyderabad, India",  // 📍
+  responseTime: "Within 24 hours"  // 🚀
 };
 ```
 

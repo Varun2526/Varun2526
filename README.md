@@ -140,7 +140,15 @@ const koppulaVarun = {
 <!-- STATS CARDS -->
 <div align="center">
 
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varun2526&theme=tokyonight&hide_border=false&border_radius=10&bg_color=0D1117&border_color=b388ff&title_color=b388ff&include_all_commits=true&count_private=true" />
+
 <img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Varun2526&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&border=b388ff" />
+
+</div>
+
+<br/>
+
+<div align="center">
 
 <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varun2526&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 

@@ -140,7 +140,7 @@ const koppulaVarun = {
 <!-- STATS CARDS -->
 <div align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Varun2526&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&border=b388ff" />
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Varun2526&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&border=b388ff" />
 
 <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varun2526&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 

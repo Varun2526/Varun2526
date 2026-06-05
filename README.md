@@ -132,7 +132,7 @@ const koppulaVarun = {
 
 <!-- ACTIVITY GRAPH -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Varun2526&bg_color=0d1117&color=b388ff&line=8A2BE2&point=ffffff&area=true&hide_border=false&border=8A2BE2&title_color=b388ff&custom_title=💻%20Varun's%20Contribution%20Graph" width="95%">
+  <img src="https://activity-graph.vercel.app/graph?username=Varun2526&bg_color=0d1117&color=b388ff&line=8A2BE2&point=ffffff&area=true&hide_border=false&border=8A2BE2&title_color=b388ff&custom_title=💻%20Varun's%20Contribution%20Graph" width="95%">
 </div>
 
 <br/>
@@ -140,7 +140,7 @@ const koppulaVarun = {
 <!-- STATS CARDS -->
 <div align="center">
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=Varun2526&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&border=b388ff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Varun2526&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&border=b388ff" />
 
 <img width="41%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varun2526&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 

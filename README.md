@@ -130,6 +130,13 @@ const koppulaVarun = {
 
 <br/>
 
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+  <img src="https://activity-graph.vercel.app/graph?username=Varun2526&bg_color=0d1117&color=b388ff&line=8A2BE2&point=ffffff&area=true&hide_border=false&border=8A2BE2&title_color=b388ff&custom_title=💻%20Varun's%20Contribution%20Graph" width="95%">
+</div>
+
+<br/>
+
 <!-- STATS CARDS -->
 <div align="center">
   <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varun2526&theme=tokyonight&hide_border=false&border_radius=10&bg_color=0D1117&border_color=b388ff&title_color=b388ff&include_all_commits=true&count_private=true" />
@@ -140,12 +147,6 @@ const koppulaVarun = {
 
 <div align="center">
   <img height="195" src="https://github-readme-streak-stats-eight.vercel.app/?user=Varun2526&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&border=b388ff&hide_total_contributions=true" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="./github-metrics.svg" alt="3D Isometric Calendar" />
 </div>
 <br/>
 

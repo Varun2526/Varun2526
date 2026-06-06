@@ -277,16 +277,8 @@ const koppulaVarun = {
 ## 📌 CURRENT STATUS
 </div>
 
-<div align="center">
-<table align="center" width="95%">
-  <tr>
-    <td>
-      <table align="center" width="100%" cellpadding="16">
-        <tr>
-          <td>
-
-### 🔥 What I'm Open To
 ```javascript
+// 🔥 What I'm Open To
 const opportunities = {
   internships: {
     roles: ["MERN/Full Stack", "AI Integration", "Blockchain"],
@@ -298,13 +290,8 @@ const opportunities = {
 }
 ```
 
-          </td>
-        </tr>
-        <tr>
-          <td>
-
-### 💼 Contact Information
 ```javascript
+// 💼 Contact Information
 const contact = {
   email: "varunkoppula2007@gmail.com",  // 📧
   linkedin: "https://www.linkedin.com/in/varun-koppula-b01916315",  // 💼
@@ -313,14 +300,6 @@ const contact = {
   responseTime: "Within 24 hours"  // 🚀
 };
 ```
-
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  </table>
-</div>
 
 <br/>
 

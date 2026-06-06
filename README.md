@@ -137,17 +137,28 @@ const koppulaVarun = {
 
 <br/>
 
-<!-- STATS CARDS -->
-<div align="center">
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varun2526&theme=tokyonight&hide_border=false&border_radius=10&bg_color=0D1117&border_color=b388ff&title_color=b388ff&include_all_commits=true&count_private=true" />
-  <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varun2526&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</div>
+<!-- STATS LAYOUT: 2x2 table -->
+<table align="center" width="95%">
+<tr>
+  <td width="50%" align="center" valign="top">
+    <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Varun2526&theme=tokyonight&hide_border=false&border_radius=10&bg_color=0D1117&border_color=b388ff&title_color=b388ff&include_all_commits=true&count_private=true" />
+  </td>
+  <td width="50%" align="center" valign="top">
+    <img height="195" src="https://github-readme-streak-stats-eight.vercel.app/?user=Varun2526&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&border=b388ff&hide_total_contributions=true" />
+  </td>
+</tr>
+<tr>
+  <td width="50%" align="center" valign="top">
+    <br/>
+    <img height="195" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Varun2526&layout=compact&theme=tokyonight&hide_border=false&border_radius=10&border_color=b388ff&bg_color=0D1117" />
+  </td>
+  <td width="50%" align="center" valign="top">
+    <!-- intentionally left blank for balance -->
+  </td>
+</tr>
+</table>
 
 <br/>
-
-<div align="center">
-  <img height="195" src="https://github-readme-streak-stats-eight.vercel.app/?user=Varun2526&theme=tokyonight&hide_border=false&border_radius=10&background=0D1117&border=b388ff&hide_total_contributions=true" />
-</div>
 <br/>
 
 <div align="center">
@@ -266,9 +277,9 @@ const koppulaVarun = {
 ## 📌 CURRENT STATUS
 </div>
 
-<table align="center">
+<table align="center" width="95%">
 <tr>
-<td width="50%">
+  <td width="100%" valign="top">
 
 ### 🔥 What I'm Open To
 ```javascript
@@ -283,8 +294,10 @@ const opportunities = {
 }
 ```
 
-</td>
-<td width="50%">
+  </td>
+</tr>
+<tr>
+  <td width="100%" valign="top">
 
 ### 💼 Contact Information
 ```javascript
@@ -297,7 +310,7 @@ const contact = {
 };
 ```
 
-</td>
+  </td>
 </tr>
 </table>
 

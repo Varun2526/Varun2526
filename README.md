@@ -277,9 +277,13 @@ const koppulaVarun = {
 ## 📌 CURRENT STATUS
 </div>
 
+<div align="center">
 <table align="center" width="95%">
-<tr>
-  <td width="100%" valign="top">
+  <tr>
+    <td>
+      <table align="center" width="100%" cellpadding="16">
+        <tr>
+          <td>
 
 ### 🔥 What I'm Open To
 ```javascript
@@ -294,10 +298,10 @@ const opportunities = {
 }
 ```
 
-  </td>
-</tr>
-<tr>
-  <td width="100%" valign="top">
+          </td>
+        </tr>
+        <tr>
+          <td>
 
 ### 💼 Contact Information
 ```javascript
@@ -310,9 +314,13 @@ const contact = {
 };
 ```
 
-  </td>
-</tr>
-</table>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  </table>
+</div>
 
 <br/>
 

@@ -36,7 +36,7 @@
 I build **backend infrastructure**, **AI-powered products**, and **real-time systems** — and I ship them to production.
 
 <img src="https://img.shields.io/badge/📍_Hyderabad,_India-8A2BE2?style=for-the-badge&labelColor=000000" />
-<img src="https://img.shields.io/badge/🟢_Building_@_Extendime-00FF41?style=for-the-badge&labelColor=000000" />
+<img src="https://img.shields.io/badge/🟢_@_Extendime_Software_Solutions-00FF41?style=for-the-badge&labelColor=000000" />
 <img src="https://img.shields.io/badge/💼_Open_to_SWE_Roles-00D9FF?style=for-the-badge&labelColor=000000" />
 
 </td>
@@ -66,7 +66,7 @@ I build **backend infrastructure**, **AI-powered products**, and **real-time sys
 <td width="33%" valign="top">
 
 **🟣 2026 — Now**
-### Extendime
+#### Extendime Software Solutions Pvt. Ltd.
 <sub>*Software Engineering Intern*</sub>
 
 Shipping the production platform on **Next.js + AWS**, wiring up **CI/CD**, and hardening the backend APIs.
@@ -75,7 +75,7 @@ Shipping the production platform on **Next.js + AWS**, wiring up **CI/CD**, and 
 <td width="33%" valign="top">
 
 **🟣 2026**
-### Suntek
+#### Suntek Corp Solutions Pvt. Ltd.
 <sub>*MERN Stack Intern*</sub>
 
 Lead builder of **Kairo** — a real-time collaborative code editor for concurrent teams.
@@ -84,7 +84,7 @@ Lead builder of **Kairo** — a real-time collaborative code editor for concurre
 <td width="33%" valign="top">
 
 **🟣 2024 — 2028**
-### Anurag University
+#### Anurag University
 <sub>*B.Tech, CSE*</sub>
 
 Computer Science & Engineering. Building things far beyond the syllabus.

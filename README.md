@@ -22,7 +22,7 @@
 <br/>
 <div align="center">
   <a href="https://github.com/Varun2526">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Full+Stack+SWE;Blockchain+Developer;Product+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+%26+AI+Systems;Full+Stack+Developer;Product+Builder" alt="Typing SVG" />
   </a>
 </div>
 <br/>
@@ -30,8 +30,8 @@
 <!-- 🎯 ULTRA PREMIUM STATS CARDS WITH GLOW EFFECT -->
 <div align="center">
 
-[![Expertise](https://img.shields.io/badge/💻_Expertise-Full_Stack-8A2BE2?style=for-the-badge&labelColor=000000&logo=react&logoColor=white)]()
-[![Experience](https://img.shields.io/badge/⚡_Blockchain-Hyperledger-00FF41?style=for-the-badge&labelColor=000000&logo=hyperledger&logoColor=white)]()
+[![Role](https://img.shields.io/badge/💻_Role-Software_Engineer-8A2BE2?style=for-the-badge&labelColor=000000&logo=react&logoColor=white)]()
+[![Focus](https://img.shields.io/badge/⚡_Focus-Backend_%26_AI_Systems-00FF41?style=for-the-badge&labelColor=000000&logo=serverfault&logoColor=white)]()
 [![Hackathons](https://img.shields.io/badge/🏆_Awards-Tejas_1st_Place-FFD700?style=for-the-badge&labelColor=000000&logo=trophy&logoColor=white)]()
 [![Status](https://img.shields.io/badge/💼_Status-ACTIVELY_SEEKING-00D9FF?style=for-the-badge&labelColor=000000&logo=rocket&logoColor=white)]()
 [![Location](https://img.shields.io/badge/📍_Based_In-Hyderabad%2C%20India-FF6B00?style=for-the-badge&labelColor=000000&logo=google-maps&logoColor=white)]()
@@ -61,15 +61,17 @@
 const koppulaVarun = {
     name: "Koppula Varun",
     location: "Hyderabad, India 🇮🇳",
-    role: "Blockchain Enthusiast & Full Stack Developer",
+    role: "Software Engineer | Backend & AI Systems | Full Stack Developer",
     
     expertise: [
-        "Hyperledger Fabric",
-        "React & Node.js",
-        "GenAI Integration"
+        "Backend Engineering",
+        "Full Stack Development",
+        "Distributed & Real-Time Systems",
+        "AI Applications & Computer Vision",
+        "Blockchain (Hyperledger Fabric)"
     ],
     
-    currentFocus: "Building scalable AI and Blockchain applications",
+    currentFocus: "Building production-grade software systems, AI-powered applications, and real-time systems",
     achievements: [
         "🏆 SIH 2025 Top 7 Nationally (500+ teams)",
         "🥇 Tejas 2K26 - 1st Place"
@@ -87,37 +89,53 @@ const koppulaVarun = {
 ## 💻 TECHNOLOGY ARSENAL
 </div>
 
-### <div align="center">⌨️ Languages & Core Tech</div>
+### <div align="center">⌨️ Languages</div>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</p>
+
+### <div align="center">🎨 Frontend</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### <div align="center">🚀 Frameworks & Blockchain</div>
+### <div align="center">🛠️ Backend</div>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
 </p>
 
-### <div align="center">🗄️ Databases & Tools</div>
+### <div align="center">🗄️ Databases</div>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-### <div align="center">🤖 AI & Developer Workflows</div>
+### <div align="center">☁️ Cloud & DevOps</div>
 <p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+### <div align="center">🤖 AI</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Google_GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</p>
+
+### <div align="center">⛓️ Blockchain</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
 </p>
 
 <br/>
@@ -164,7 +182,26 @@ const koppulaVarun = {
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider"/>
 
-## 🏆 FEATURED MISSIONS
+## 🏆 FEATURED PROJECTS
+</div>
+
+<br/>
+
+<!-- 🚀 UPCOMING FLAGSHIP — AirOS -->
+<div align="center">
+
+### 🛰️ AirOS &nbsp;<img src="https://img.shields.io/badge/Flagship-Coming_Soon-6C3CE1?style=for-the-badge&labelColor=000000&logo=rocket&logoColor=white" />
+
+<i>AI-Powered Real-Time Gesture Interaction System</i><br/><br/>
+
+<img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Real--Time_Systems-00d2ff?style=for-the-badge&logo=serverfault&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Applications-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+<br/><br/>
+
+> 🎯 **Upcoming flagship** — a real-time system exploring computer vision and gesture-driven interaction. Detailed write-up coming soon.
+
 </div>
 
 <br/>
@@ -175,27 +212,26 @@ const koppulaVarun = {
 
 ### 💊 AyurTrace
 <div align="center">
-<i>Enterprise Blockchain Supply Chain Management System</i><br/><br/>
+<i>Full Stack Distributed Supply Chain Platform</i><br/><br/>
 
-<img src="https://img.shields.io/badge/Blockchain-20232A?style=for-the-badge&logo=hyperledger&logoColor=white" />
-<img src="https://img.shields.io/badge/Supply_Chain-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Google_GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
 
 </div>
 
 **✨ Features:**
-- ✅ End-to-End Blockchain Supply Chain Traceability
+- ✅ Full Stack Platform (React + Node.js + Express)
 - ✅ Multi-Stakeholder RBAC (Secure JWT Auth)
 - ✅ Geospatial Ray Casting (Point-In-Polygon)
 - ✅ AI-Powered Automated Recalls (Google GenAI)
+- ✅ Blockchain Traceability Layer (Hyperledger)
 - ✅ 🥇 Tejas '26 (1st) | 🏆 SIH '25 (Waitlisted)
 
-> 🎯 **Impact:** Ensuring AYUSH supply chain integrity and stakeholder trust at scale.
+> 🎯 **Impact:** A distributed, end-to-end system ensuring supply chain integrity and stakeholder trust at scale.
 
 </td>
 
@@ -280,8 +316,9 @@ const koppulaVarun = {
 ```javascript
 // 🔥 What I'm Open To
 const opportunities = {
-  internships: {
-    roles: ["MERN/Full Stack", "AI Integration", "Blockchain"],
+  roles: {
+    software: ["Software Engineer", "Backend Engineer"],
+    product: ["Full Stack Developer", "AI Systems Builder"],
     availability: "Immediately Available"
   },
   collaboration: {

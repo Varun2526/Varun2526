@@ -72,6 +72,8 @@ const koppulaVarun = {
     ],
     
     currentFocus: "Building production-grade software systems, AI-powered applications, and real-time systems",
+    education: "B.Tech CSE @ Anurag University (2024–2028)",
+    currentlyBuilding: "@ Extendime Software Solutions",
     achievements: [
         "🏆 SIH 2025 Top 7 Nationally (500+ teams)",
         "🥇 Tejas 2K26 - 1st Place"
@@ -86,20 +88,70 @@ const koppulaVarun = {
 <div align="center">
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider"/>
 
+## 💼 EXPERIENCE
+</div>
+
+<br/>
+
+<table align="center" width="100%">
+<tr>
+<td width="100%" valign="top">
+
+### 🏢 Extendime Software Solutions Pvt. Ltd.
+<i>Software Engineering Intern</i> · <b>May 2026 – Present</b> · Hyderabad, India
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+
+- Engineered and deployed the production website (<a href="https://extendime.com">extendime.com</a>) with Next.js 15, React 19, TypeScript, and Tailwind CSS.
+- Automated CI/CD deployments to AWS EC2 via GitHub Actions, with NGINX and PM2 managing production hosting.
+- Built secure backend APIs with rate limiting, input validation, and HTTP security headers.
+- Integrated Prisma ORM with MySQL and migrated eleven components to React Server Components.
+
+### 🏢 Suntek Corp Solutions Pvt. Ltd.
+<i>MERN Stack Intern</i> · <b>May 2026 – Jul 2026</b> · Hyderabad, India
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+
+- Top contributor on a four-member team building **Kairo**, a real-time collaborative code editor (React, Node.js, Express, MongoDB, Socket.IO).
+- Designed Socket.IO room management, JWT authentication, and role-based access control for concurrent multi-user collaboration.
+- Implemented local authentication, Google OAuth, GitHub OAuth, and secure account-linking workflows.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" alt="Divider"/>
+
 ## 💻 TECHNOLOGY ARSENAL
 </div>
 
 ### <div align="center">⌨️ Languages</div>
 <p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </p>
 
 ### <div align="center">🎨 Frontend</div>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
@@ -108,29 +160,45 @@ const koppulaVarun = {
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth-3C4043?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
 
 ### <div align="center">🗄️ Databases</div>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
 ### <div align="center">☁️ Cloud & DevOps</div>
 <p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-### <div align="center">🤖 AI</div>
+### <div align="center">🤖 AI & Computer Vision</div>
 <p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Google_GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+</p>
+
+### <div align="center">🧰 Tools</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ### <div align="center">⛓️ Blockchain</div>
@@ -196,7 +264,7 @@ const koppulaVarun = {
 
 <img src="https://img.shields.io/badge/Computer_Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/Real--Time_Systems-00d2ff?style=for-the-badge&logo=serverfault&logoColor=white" />
-<img src="https://img.shields.io/badge/AI_Applications-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/AI_Applications-FF6F00?style=for-the-badge&logo=probot&logoColor=white" />
 
 <br/><br/>
 
@@ -208,6 +276,31 @@ const koppulaVarun = {
 
 <table align="center" width="100%">
 <tr>
+<td width="50%" valign="top">
+
+### 🧩 Kairo
+<div align="center">
+<i>Real-Time Collaborative Code Editor</i><br/><br/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+
+</div>
+
+**✨ Features:**
+- ✅ Real-Time Multi-User Collaboration (Socket.IO)
+- ✅ Room Management for Concurrent Sessions
+- ✅ JWT Auth + Role-Based Access Control
+- ✅ Local, Google & GitHub OAuth (Account Linking)
+- ✅ Top Contributor on a 4-Member Team
+
+> 🎯 **Impact:** A low-latency, real-time system supporting concurrent multi-user collaboration.
+
+</td>
+
 <td width="50%" valign="top">
 
 ### 💊 AyurTrace
@@ -229,9 +322,35 @@ const koppulaVarun = {
 - ✅ Geospatial Ray Casting (Point-In-Polygon)
 - ✅ AI-Powered Automated Recalls (Google GenAI)
 - ✅ Blockchain Traceability Layer (Hyperledger)
-- ✅ 🥇 Tejas '26 (1st) | 🏆 SIH '25 (Waitlisted)
+- ✅ 🥇 Tejas '26 (1st) | 🏆 SIH '25 (Top 7 Nationally)
 
 > 🎯 **Impact:** A distributed, end-to-end system ensuring supply chain integrity and stakeholder trust at scale.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🩺 WoundCare
+<div align="center">
+<i>Computer-Vision Wound Healing Analysis</i><br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+</div>
+
+**✨ Features:**
+- ✅ Full-Stack App: Upload Images → Healing Analysis
+- ✅ OpenCV Pipeline (HSV Masking, Contour Detection)
+- ✅ Pixel Calibration for Wound Size Estimation
+- ✅ FastAPI REST APIs (Tested with pytest + TestClient)
+
+> 🎯 **Impact:** Bridging the gap between software capability and clinical assessment.
 
 </td>
 
@@ -261,23 +380,23 @@ const koppulaVarun = {
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 WoundCare
+### 🎬 Netflix Search Clone
 <div align="center">
-<i>Autonomous Care Assessment</i><br/><br/>
+<i>Unified Multi-API Search & Recommendation</i><br/><br/>
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
 
 </div>
 
 **✨ Features:**
-- ✅ Wound Severity Assessment
-- ✅ Computer Vision Models
-- ✅ Autonomous Care Guidance
-- ✅ Intuitive Dashboard
+- ✅ Unified Search Across TMDB, RAWG & Steam APIs
+- ✅ Aggregated Recommendation Interface
+- ✅ Cross-Platform Media Discovery
+- ✅ Independently Designed & Built
 
-> 🎯 **Impact:** Bridging the gap between software capability and clinical assessment.
+> 🎯 **Impact:** Integrating multiple third-party APIs into a single, cohesive search experience.
 
 </td>
 

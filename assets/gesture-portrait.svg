@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172 196" width="172" height="196" role="img" aria-label="AirOS gesture landmark portrait: a hand rendered as 21 tracked points">
+<title>AirOS — real-time hand landmark tracking</title>
+<style>
+    .fr{fill:#0a0e14;stroke:#21262d;stroke-width:1.5}
+    .ed{stroke:#8b5cf6;stroke-width:1.8;opacity:.8}
+    .dt{fill:#00d2ff;animation:pulse 2.4s ease-in-out infinite}
+    .sc{fill:#00d2ff;opacity:.10;animation:scan 3.2s ease-in-out infinite}
+    .lb{fill:#5b6270;font-family:ui-monospace,Menlo,monospace;font-size:8px;letter-spacing:1px}
+    .lb2{fill:#35e07f;font-family:ui-monospace,Menlo,monospace;font-size:8px;letter-spacing:1px}
+    @keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
+    @keyframes scan{0%{transform:translateY(6px)}50%{transform:translateY(150px)}100%{transform:translateY(6px)}}
+    </style>
+<rect class="fr" x="2" y="2" width="168" height="192" rx="16"/>
+<rect class="sc" x="10" y="0" width="152" height="22" rx="8"/>
+<path d="M10 20 V12 H20" stroke="#8b5cf6" stroke-width="1.4" fill="none" opacity=".7"/>
+<path d="M162 20 V12 H152" stroke="#8b5cf6" stroke-width="1.4" fill="none" opacity=".7"/>
+<path d="M10 176 V184 H20" stroke="#8b5cf6" stroke-width="1.4" fill="none" opacity=".7"/>
+<path d="M162 176 V184 H152" stroke="#8b5cf6" stroke-width="1.4" fill="none" opacity=".7"/>
+<line class="ed" x1="86" y1="162" x2="66" y2="143"/>
+<line class="ed" x1="66" y1="143" x2="54" y2="128"/>
+<line class="ed" x1="54" y1="128" x2="46" y2="115"/>
+<line class="ed" x1="46" y1="115" x2="40" y2="103"/>
+<line class="ed" x1="86" y1="162" x2="74" y2="108"/>
+<line class="ed" x1="74" y1="108" x2="72" y2="85"/>
+<line class="ed" x1="72" y1="85" x2="71" y2="69"/>
+<line class="ed" x1="71" y1="69" x2="70" y2="55"/>
+<line class="ed" x1="74" y1="108" x2="88" y2="105"/>
+<line class="ed" x1="88" y1="105" x2="88" y2="79"/>
+<line class="ed" x1="88" y1="79" x2="88" y2="61"/>
+<line class="ed" x1="88" y1="61" x2="88" y2="45"/>
+<line class="ed" x1="88" y1="105" x2="102" y2="108"/>
+<line class="ed" x1="102" y1="108" x2="104" y2="83"/>
+<line class="ed" x1="104" y1="83" x2="105" y2="67"/>
+<line class="ed" x1="105" y1="67" x2="106" y2="53"/>
+<line class="ed" x1="102" y1="108" x2="116" y2="113"/>
+<line class="ed" x1="116" y1="113" x2="120" y2="93"/>
+<line class="ed" x1="120" y1="93" x2="122" y2="79"/>
+<line class="ed" x1="122" y1="79" x2="124" y2="67"/>
+<line class="ed" x1="86" y1="162" x2="116" y2="113"/>
+<circle class="dt" cx="86" cy="162" r="4.4" style="animation-delay:-0.00s"/>
+<circle class="dt" cx="66" cy="143" r="3.1" style="animation-delay:-0.11s"/>
+<circle class="dt" cx="54" cy="128" r="3.1" style="animation-delay:-0.22s"/>
+<circle class="dt" cx="46" cy="115" r="3.1" style="animation-delay:-0.33s"/>
+<circle class="dt" cx="40" cy="103" r="3.1" style="animation-delay:-0.44s"/>
+<circle class="dt" cx="74" cy="108" r="3.1" style="animation-delay:-0.55s"/>
+<circle class="dt" cx="72" cy="85" r="3.1" style="animation-delay:-0.66s"/>
+<circle class="dt" cx="71" cy="69" r="3.1" style="animation-delay:-0.77s"/>
+<circle class="dt" cx="70" cy="55" r="3.1" style="animation-delay:-0.88s"/>
+<circle class="dt" cx="88" cy="105" r="3.1" style="animation-delay:-0.99s"/>
+<circle class="dt" cx="88" cy="79" r="3.1" style="animation-delay:-1.10s"/>
+<circle class="dt" cx="88" cy="61" r="3.1" style="animation-delay:-1.21s"/>
+<circle class="dt" cx="88" cy="45" r="3.1" style="animation-delay:-1.32s"/>
+<circle class="dt" cx="102" cy="108" r="3.1" style="animation-delay:-1.43s"/>
+<circle class="dt" cx="104" cy="83" r="3.1" style="animation-delay:-1.54s"/>
+<circle class="dt" cx="105" cy="67" r="3.1" style="animation-delay:-1.65s"/>
+<circle class="dt" cx="106" cy="53" r="3.1" style="animation-delay:-1.76s"/>
+<circle class="dt" cx="116" cy="113" r="3.1" style="animation-delay:-1.87s"/>
+<circle class="dt" cx="120" cy="93" r="3.1" style="animation-delay:-1.98s"/>
+<circle class="dt" cx="122" cy="79" r="3.1" style="animation-delay:-2.09s"/>
+<circle class="dt" cx="124" cy="67" r="3.1" style="animation-delay:-2.20s"/>
+<text class="lb" x="12" y="190">21 landmarks</text>
+<text class="lb2" x="108" y="190">● live</text>
+</svg>
